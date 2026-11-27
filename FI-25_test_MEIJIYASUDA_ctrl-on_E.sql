@@ -1,0 +1,4 @@
+-- MEIJIYASUDA
+-- MEIJIYASUDA のテストファイルです。
+
+SELECT 'MEIJIYASUDA' AS name;
